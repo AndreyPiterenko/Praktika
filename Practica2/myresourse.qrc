@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Seriousbombw_hd.png</file>
+        <file>rg1024_sea_mine.png</file>
+        <file>7.png</file>
+        <file>Мина.png</file>
+    </qresource>
+</RCC>

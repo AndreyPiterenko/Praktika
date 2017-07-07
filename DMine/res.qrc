@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>7.png</file>
+        <file>rg1024_sea_mine.png</file>
+        <file>Мина.png</file>
+    </qresource>
+</RCC>
